@@ -1,6 +1,6 @@
-a=int(raw_input())
-b=int(raw_input())
-c=int(raw_input())
+a=2
+b=4
+c=8
 if (a>=b) and (a>=c):
 	largest=a
 elif (b>=a) and (b>=c):
