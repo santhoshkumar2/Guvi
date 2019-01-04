@@ -1,7 +1,7 @@
 fstinput=int(raw_input())
 if fstinput>0:
-	print "positive"
+	print "Positive"
 elif fstinput<0:
-	print "negative"
+	print "Negative"
 elif fstinput==0:
-	print "zero"
+	print "Zero"
