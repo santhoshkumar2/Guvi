@@ -1,5 +1,6 @@
-a=int(raw_input())
-b=int(raw_input())
+usr_1=raw_input().split()
+usr_2=int(z[0])
+usr_3=int(z[1])
 for num in range(a,b):
    sum = 0
    temp = num
