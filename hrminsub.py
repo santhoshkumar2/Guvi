@@ -1,0 +1,7 @@
+hr_1=raw_input()
+min_1=raw_input()
+hr_1=hr_1.split()
+min_1=min_1.split()
+hr=int(hr_1[0])-int(min_1[0])
+min=int(hr_1[1])-int(min_1[1])
+print str(hr)+ " "+str(min)
