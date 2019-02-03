@@ -1,4 +1,6 @@
-for num in range(100,1000):
+a=int(raw_input())
+b=int(raw_input())
+for num in range(a,b):
    sum = 0
    temp = num
    while temp > 0:
