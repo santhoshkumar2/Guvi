@@ -1,0 +1,5 @@
+num=int(input())
+arr=input()
+arr=arr.split()
+arr.sort()
+print(arr[1])
