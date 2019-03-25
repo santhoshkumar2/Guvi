@@ -1,0 +1,50 @@
+body{
+		background-image:url('2.jpg');
+
+}
+.container{
+	position:fixed;
+	width:99%;
+	height:7%;
+	overflow:hidden;
+	background-color:#ffc34d;
+}
+.container a{
+	margin:10px;
+	text-decoration:none;
+	float:left;
+	color:#000000;
+	z-index:1;
+	
+}
+.container a:hover{
+	color:white;
+	
+}
+
+.container form input{
+	float:left;
+	padding:5px;
+	margin-left:800px;
+	
+	
+
+}
+#sec{
+	padding:8px;
+	position:;
+	
+}
+#sec button{
+	cursor:pointer;
+	border:1px #adad85 solid;
+	padding:5px;
+	font-size:15px;
+	background-color:#ffc34d;	
+	position:fixed;
+
+}
+#sec button:hover{
+	background-color:#80ff80;
+	font-size:20px;
+}

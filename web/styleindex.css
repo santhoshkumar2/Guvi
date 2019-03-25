@@ -1,0 +1,48 @@
+body{
+	align-content: center;
+	background-image:url('9.jpg');
+	background-repeat:no-repeat;
+}
+form{
+	margin-top:13%;
+	margin-left:37%;
+	height:300px;
+	border-radius:10px;
+	border:black 3px solid;
+	width:300px;
+	text-align:center;
+	background-color:#99ccff;
+	box-shadow:7px 10px 5px #ffffff;
+}
+form input{
+	border:1px solid;
+	height:20px;
+}
+form label{
+	display:block;
+	
+}
+.con{
+	margin:45px;
+	
+}
+.con h1{
+	color:#cc00cc;
+	text-transform:uppercase;
+	text-shadow:1.5px 1px;
+}
+.con label{
+	color:#4d0000;
+}
+span{
+	background-color:white;	
+	border:1px solid;
+	border-radius:20%;
+	
+}
+.btn{
+	border:1px solid;
+	width:85%;
+	background-color:tomato;
+	cursor:pointer;
+}
