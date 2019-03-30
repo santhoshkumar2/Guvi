@@ -13,3 +13,4 @@ for i in list:
 list_2.sort(key=len)
 for i in list_2:
 	print(i)
+	print('\r')
